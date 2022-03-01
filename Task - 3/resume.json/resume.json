@@ -1,0 +1,67 @@
+{
+    "basics": {
+      "name": "Nithiyanantham S A",
+      "image": "",
+      "email": "nithianbu97@gmail.com",
+      "phone": "8680989043",
+      "summary": "A summary of NithiAnbu…",
+      "location": {
+        "address": "1/79 poosaliyur st, Mahankalikapuram",
+        "postalCode": "631301",
+        "city": "thiruvallur",
+      },
+      "profiles": [{
+        "network": "Twitter",
+        "username": "nithianbu97",
+        "url": "https://twitter.com/nithianbu97"
+      }]
+    
+    },
+    "education": [{
+      "institution": " Anna University",
+      "url": "https://Anna university.com/",
+      "area": "Civil Engineering",
+      "studyType": "Bachelor",
+      "startDate": "04.09.2015",
+      "endDate": "13.04.2019",
+      "score": "7.2"
+       
+    }],
+    "awards": [{
+      "title": "won in technical level symposiyum",
+      "date": "28.02.2019",
+      "summary": "There is no spoon."
+    
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English, Tamil",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "gain knowledge in some thing new"
+    }],
+    "projects": [{
+      "name": "Project",
+      "description": "Partial Replacement of Fine Aggregate By Using Waste Foundry Sand",
+      "highlights": [
+        "Won award in department level"
+      ],
+      "keywords": [
+        "To get more Compressive Strength, With Minimum of Cost"
+      ],
+      "startDate": "20.12.2018",
+      "endDate": "22.2.2019",
+      "roles": [
+        "Team Lead"
+      ]
+    }]
+  }
